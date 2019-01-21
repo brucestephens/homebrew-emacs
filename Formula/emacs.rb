@@ -36,7 +36,7 @@ class Emacs < Formula
       --with-xml2
       --without-dbus
       --with-modules
-      --without-ns
+      --with-ns
       --without-imagemagick
     ]
 
